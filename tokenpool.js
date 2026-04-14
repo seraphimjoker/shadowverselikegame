@@ -1,4 +1,4 @@
-const TOKEN_POOL={
+{
     "精靈":{id:"001010001",name:"精靈",type:"Follower",craft:"Elf",traits:["Fairy"],cost:1,atk:1,hp:1,rarity:"Bronze",keywords:["Rush"],abilityDesc:"突進"},
     "妖精螢火":{id:"001010002",name:"妖精螢火",type:"Follower",craft:"Elf",traits:["Fairy"],cost:0,atk:1,hp:1,rarity:"Bronze",comboReq:3,comboBanishSelf:3,abilityDesc:"入場曲 連擊3 使這個從者消失。"},
     "化蟲之卵":{id:"001030001",name:"化蟲之卵",type:"Amulet",craft:"Elf",cost:1,countdown:2,hasLastWords:true,lastWordsDamageAllyFace:3,rarity:"Bronze",abilityDesc:"倒數 2\n謝幕曲 給予我方領袖3點傷害"},
