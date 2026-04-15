@@ -1,4 +1,4 @@
-[
+const CARD_POOL = [
     // Elf
     {id:"101010001",name:"幼蟲守衛",type:"Follower",craft:"Elf",traits:["Bug"],cost:1,atk:1,hp:1,hasLastWords:true,lastWordsAssembleReq:10,lastWordsAssembleEnemySummon:"化蟲之卵",lastWordsAssembleEnemySummonCount:1,lastWordsAssembleReq2:20,lastWordsAssembleEnemySummonCount2:3,rarity:"Silver",abilityDesc:"謝幕曲 集結10 召喚1個化蟲之卵到對方戰場上。集結20 改為召喚3個。"},
     {id:"101010002",name:"森精守衛",type:"Follower",craft:"Elf",cost:2,atk:2,hp:2,keywords:["Ward"],hasFanfare:true,targetRequired:true,onlyAlly:true,canTargetFollower:true,bounceTarget:true,fanfareSummon:"精靈",fanfareSummonCount:1,rarity:"Bronze",abilityDesc:"守護\n入場曲 指定 1個我方從者 召回 召喚1個精靈到戰場上。"},
