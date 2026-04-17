@@ -16,8 +16,8 @@
     "lastWordsAssembleEnemySummonCount2": 3,
     "rarity": "Silver",
     "abilityDesc": "謝幕曲 集結10 召喚1個化蟲之卵到對方戰場上。集結20 改為召喚3個。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010001.png",
+    "evo_image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010001e.png"
   },
   {
     "id": "101010002",
