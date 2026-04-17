@@ -2883,8 +2883,8 @@
     "rarity": "Gold",
     "abilityDesc": "結晶1 倒數7 每當中立從者進入自己的戰場時，倒數-1。謝幕曲 召喚1個封印的魔神到戰場上。\n－　－　－　－　－　－\n突進\n守護\n入場曲 抽取1張卡片。這個從者進入戰場時，抽取1張卡片。",
     "evoAbilityDesc": "進化時 召喚1個封印的魔神到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010005.png",
+    "evo_image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010005e.png"
   },
   {
     "id": "109020001",
