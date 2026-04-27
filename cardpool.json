@@ -16,8 +16,7 @@
     "lastWordsAssembleEnemySummonCount2": 3,
     "rarity": "Silver",
     "abilityDesc": "謝幕曲 集結10 召喚1個化蟲之卵到對方戰場上。集結20 改為召喚3個。",
-    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010001.png",
-    "evo_image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010001e.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010001.png"
   },
   {
     "id": "101010002",
@@ -37,8 +36,7 @@
     "fanfareSummonCount": 1,
     "rarity": "Bronze",
     "abilityDesc": "守護\n入場曲 指定 1個我方從者 召回 召喚1個精靈到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010002.png"
   },
   {
     "id": "101010003",
@@ -57,8 +55,7 @@
     "assembleKeywords2": ["Storm"],
     "rarity": "Bronze",
     "abilityDesc": "入場曲 集結10 獲得+2/+2。集結20 獲得+2/+2與疾走。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010003.png"
   },
   {
     "id": "101010004",
@@ -74,8 +71,7 @@
     "fanfareComboScaleStats": { "atk": 1, "hp": 0 },
     "rarity": "Gold",
     "abilityDesc": "疾走\n入場曲 獲得「依本回合已使用的卡片數」獲得 +1/+0」的效果。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010004.png"
   },
   {
     "id": "101010005",
@@ -98,8 +94,7 @@
     "comboAddHandCount": 2,
     "rarity": "Silver",
     "abilityDesc": "潛行\n入場曲 指定 1個我方從者 召回 召喚2個精靈到戰場上。連擊3 增加2張妖精螢火卡片到手牌中。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010005.png"
   },
   {
     "id": "101010006",
@@ -115,8 +110,7 @@
     "bounceAllAlliesBuff": { "atk": 1, "hp": 1 },
     "rarity": "Silver",
     "abilityDesc": "入場曲 召回 我方從者全體，並根據回手的卡片數獲得+1/+1。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010006.png"
   },
   {
     "id": "101010007",
@@ -137,8 +131,7 @@
     "fanfareSummonCount": 2,
     "rarity": "Bronze",
     "abilityDesc": "守護\n入場曲 指定 1個我方從者 召回 召喚2個精靈到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010007.png"
   },
   {
     "id": "101010008",
@@ -153,8 +146,7 @@
     "onLeave": { "summonToken": "精靈", "summonCount": 2 },
     "rarity": "Gold",
     "abilityDesc": "這個從者進入戰場時 回復我方領袖3點生命值。\n這個從者離開戰場時 召喚2個精靈到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010008.png"
   },
   {
     "id": "101010009",
@@ -173,8 +165,7 @@
     "rarity": "Silver",
     "abilityDesc": "守護\n入場曲 連擊3 使這個從者進化。",
     "evoAbilityDesc": "謝幕曲 召喚2個精靈到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010009.png"
   },
   {
     "id": "101010010",
@@ -202,8 +193,7 @@
     },
     "rarity": "Gold",
     "abilityDesc": "入場曲 召喚3個精靈到戰場上。\n進化時 集結5 抽取1張卡片。集結10 獲得+1/+1與守護。集結15 獲得+1/+1與必殺。集結20 獲得+1/+1與疾走。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010010.png"
   },
   {
     "id": "101010011",
@@ -223,8 +213,7 @@
     "fanfareDamageOpponentFace": 3,
     "rarity": "Gold",
     "abilityDesc": "入場曲 指定 1個我方從者 召回，隨後給予對方從者全體與對方領袖3點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010011.png"
   },
   {
     "id": "101010012",
@@ -232,7 +221,8 @@
     "type": "Follower",
     "craft": "Elf",
     "cost": 7,
-    "atk": 6, "hp": 6,
+    "atk": 6,
+    "hp": 6,
     "keywords": ["Storm"],
     "hasFanfare": true,
     "targetRequired": true,
@@ -249,8 +239,7 @@
     },
     "rarity": "Silver",
     "abilityDesc": "激奏1 指定1個我方單位 召回 抽取1張卡片\n－　－　－　－　－　－\n疾走\n入場曲 指定1個單位 召回 給予對方領袖4點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010012.png"
   },
   {
     "id": "101010013",
@@ -258,7 +247,8 @@
     "type": "Follower",
     "craft": "Elf",
     "cost": 5,
-    "atk": 4, "hp": 5,
+    "atk": 4,
+    "hp": 5,
     "keywords": ["Ward"],
     "hasFanfare": true,
     "comboReq": 3,
@@ -271,8 +261,7 @@
     },
     "rarity": "Bronze",
     "abilityDesc": "結晶1 倒數3 每當妖精．從者進入自己的戰場時，給予對方領袖1點傷害\n－　－　－　－　－　－\n守護\n入場曲 連擊3 抽取2張卡片，回復我方領袖3點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101010013.png"
   },
   {
     "id": "101020001",
@@ -284,7 +273,7 @@
     "addHandCount": 2,
     "rarity": "Bronze",
     "abilityDesc": "增加 2張精靈卡片到手牌中。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101020001.png"
   },
   {
     "id": "101020002",
@@ -297,7 +286,7 @@
     "comboDrawCount": 1,
     "rarity": "Silver",
     "abilityDesc": "抽取 1張卡片。\n連擊3 額外抽取 1張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101020002.png"
   },
   {
     "id": "101020003",
@@ -312,7 +301,7 @@
     "drawCount": 1,
     "rarity": "Silver",
     "abilityDesc": "指定 1個我方單位 召回 抽取1張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101020003.png"
   },
   {
     "id": "101020004",
@@ -327,7 +316,7 @@
     "bounceAllyDamageEnemy": 3,
     "rarity": "Bronze",
     "abilityDesc": "指定 1個我方單位 召回\n指定 1個對方從者，給予 3點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/101020004.png"
   },
   {
     "id": "102010001",
@@ -336,15 +325,15 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 1,
-    "atk": 1, "hp": 2,
+    "atk": 1,
+    "hp": 2,
     "hasFanfare": true,
     "conditionTrait": "Commander",
     "conditionBuff": { "atk": 1, "hp": 1 },
     "conditionKeywords": ["Rush"],
     "rarity": "Bronze",
     "abilityDesc": "入場曲 如果自己的戰場上有指揮官卡，則會獲得 +1/+1 與突進。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010001.png"
   },
   {
     "id": "102010002",
@@ -353,12 +342,12 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 2,
-    "atk": 2, "hp": 1,
+    "atk": 2,
+    "hp": 1,
     "keywords": ["Stealth"],
     "rarity": "Bronze",
     "abilityDesc": "潛行",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010002.png"
   },
   {
     "id": "102010003",
@@ -367,12 +356,12 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 2,
-    "atk": 2, "hp": 2,
+    "atk": 2,
+    "hp": 2,
     "keywords": ["Rush"],
     "rarity": "Bronze",
     "abilityDesc": "突進",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010003.png"
   },
   {
     "id": "102010004",
@@ -381,12 +370,12 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 2,
-    "atk": 2, "hp": 1,
+    "atk": 2,
+    "hp": 1,
     "keywords": ["Storm"],
     "rarity": "Bronze",
     "abilityDesc": "疾走",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010004.png"
   },
   {
     "id": "102010005",
@@ -395,7 +384,8 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 2,
-    "atk": 2, "hp": 1,
+    "atk": 2,
+    "hp": 1,
     "keywords": ["Rush"],
     "hasFanfare": true,
     "rallyReq": 5,
@@ -405,8 +395,7 @@
     "rallyKeywords2": ["Storm"],
     "rarity": "Silver",
     "abilityDesc": "突進\n入場曲 連攜5 抽取 1張卡片。連攜10 獲得 +2/+0 與疾走。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010005.png"
   },
   {
     "id": "102010006",
@@ -415,15 +404,15 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 3,
-    "atk": 1, "hp": 2,
+    "atk": 1,
+    "hp": 2,
     "keywords": ["Bane", "Rush"],
     "hasLastWords": true,
     "lastWordsSummon": "皇家近衛",
     "lastWordsSummonCount": 1,
     "rarity": "Gold",
     "abilityDesc": "突進\n必殺\n謝幕曲 召喚 1個皇家近衛到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010006.png"
   },
   {
     "id": "102010007",
@@ -432,7 +421,8 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 3,
-    "atk": 3, "hp": 2,
+    "atk": 3,
+    "hp": 2,
     "hasFanfare": true,
     "targetRequired": true,
     "targetCount": 2,
@@ -443,8 +433,7 @@
     "conditionDamage": 6,
     "rarity": "Silver",
     "abilityDesc": "入場曲 指定 2個對方從者，給予其3點傷害。如果自己的戰場上有指揮官卡，則改為給予其6點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010007.png"
   },
   {
     "id": "102010008",
@@ -453,7 +442,8 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 4,
-    "atk": 3, "hp": 4,
+    "atk": 3,
+    "hp": 4,
     "hasFanfare": true,
     "targetRequired": true,
     "canTargetFollower": true,
@@ -463,8 +453,7 @@
     "rallyBuffAllAllies2": { "atk": 1, "hp": 0 },
     "rarity": "Gold",
     "abilityDesc": "入場曲 指定 1個我方從者，給予其 +1/+1。\n連攜10 額外給予我方戰場上的所有從者 +1/+0。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010008.png"
   },
   {
     "id": "102010009",
@@ -473,8 +462,10 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 4,
-    "atk": 3, "hp": 4,
-    "evoAtk": 4, "evoHp": 5,
+    "atk": 3,
+    "hp": 4,
+    "evoAtk": 4,
+    "evoHp": 5,
     "hasFanfare": true,
     "fanfareSummon": "皇家近衛",
     "fanfareSummonCount": 2,
@@ -483,8 +474,7 @@
     },
     "rarity": "Silver",
     "abilityDesc": "入場曲 召喚2個皇家近衛到戰場上。\n進化時 給予我方戰場上所有士兵從者 +1/+1 與守護效果。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010009.png"
   },
   {
     "id": "102010010",
@@ -493,7 +483,8 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 5,
-    "atk": 3, "hp": 5,
+    "atk": 3,
+    "hp": 5,
     "keywords": ["Storm"],
     "hasFanfare": true,
     "rallyReq": 10,
@@ -506,8 +497,7 @@
     },
     "rarity": "Gold",
     "abilityDesc": "疾走\n入場曲 連攜10 獲得 +2/+2。\n進化時 指定 1個對方從者，破壞該單位。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010010.png"
   },
   {
     "id": "102010011",
@@ -516,7 +506,8 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 6,
-    "atk": 4, "hp": 4,
+    "atk": 4,
+    "hp": 4,
     "keywords": ["Rush"],
     "hasFanfare": true,
     "fanfareSummon": "飛影騎士",
@@ -524,8 +515,7 @@
     "onEvolve": { "rallyReq": 15, "evolveAllAllies": { "trait": "Officer" } },
     "rarity": "Gold",
     "abilityDesc": "突進\n入場曲 召喚 2個飛影騎士到戰場上。\n進化時 連攜15 使自己戰場上的士兵從者全體進化。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010011.png"
   },
   {
     "id": "102010012",
@@ -534,8 +524,10 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 6,
-    "atk": 5, "hp": 5,
-    "evoAtk": 5, "evoHp": 5,
+    "atk": 5,
+    "hp": 5,
+    "evoAtk": 5,
+    "evoHp": 5,
     "rarity": "Gold",
     "hasFanfare": true,
     "drawCount": 2,
@@ -547,8 +539,7 @@
       "rallyKeywords": ["Storm"]
     },
     "abilityDesc": "入場曲 抽取2張卡片，召喚2個皇家近衛到戰場上。\n進化時 破壞對方戰場上所有從者，並根據被破壞的數量獲得+1/+1，連攜15 獲得疾走。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010012.png"
   },
   {
     "id": "102010013",
@@ -557,7 +548,8 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 7,
-    "atk": 5, "hp": 7,
+    "atk": 5,
+    "hp": 7,
     "hasFanfare": true,
     "targetRequired": true,
     "onlyEnemy": true,
@@ -568,8 +560,7 @@
     "rallyKeywords": ["Storm"],
     "rarity": "Gold",
     "abilityDesc": "入場曲 連攜10 指定 1個對方從者，破壞該單位。獲得 +2/+2 與疾走 效果。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010013.png"
   },
   {
     "id": "102010014",
@@ -578,8 +569,10 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 7,
-    "atk": 6, "hp": 6,
-    "evoAtk": 7, "evoHp": 7,
+    "atk": 6,
+    "hp": 6,
+    "evoAtk": 7,
+    "evoHp": 7,
     "rarity": "Gold",
     "abilityDesc": "入場曲 抉擇1 使抉擇目標進入戰場。\n進化時 抉擇1 使抉擇目標進入戰場，進化該從者。",
     "fanfareChoose": {
@@ -596,8 +589,7 @@
         { "type": "card", "cardName": "鎮守尖兵", "effect": { "summonToken": "鎮守尖兵", "summonCount": 1, "evolveSummon": true } }
       ]
     },
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010014.png"
   },
   {
     "id": "102010015",
@@ -606,7 +598,8 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 8,
-    "atk": 5, "hp": 9,
+    "atk": 5,
+    "hp": 9,
     "keywords": ["Ward"],
     "hasFanfare": true,
     "healLeaderAmount": 5,
@@ -614,8 +607,7 @@
     "fanfareDestroyAllBoardFollowers": true,
     "rarity": "Gold",
     "abilityDesc": "守護\n入場曲 回復自己的領袖5點生命值。連攜20 破壞戰場上所有從者，根據被破壞的數量給予對方領袖對應的傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010015.png"
   },
   {
     "id": "102010016",
@@ -624,7 +616,8 @@
     "craft": "Royal",
     "traits": ["Commander"],
     "cost": 7,
-    "atk": 4, "hp": 5,
+    "atk": 4,
+    "hp": 5,
     "keywords": ["Rush", "Ward"],
     "hasFanfare": true,
     "buffAllAllies": { "buff": { "atk": 1, "hp": 1 } },
@@ -634,8 +627,7 @@
     "accelerateEffect": { "summonToken": "皇家近衛", "summonCount": 2 },
     "rarity": "Gold",
     "abilityDesc": "激奏2 召喚2個皇家近衛到戰場上。\n－　－　－　－　－　－\n突進\n守護\n入場曲 給予我方戰場上所有從者+1/+1。\n入場曲 連攜15 額外給予我方戰場上所有從者+2/+2。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010016.png"
   },
   {
     "id": "102010017",
@@ -644,7 +636,8 @@
     "craft": "Royal",
     "traits": ["Officer"],
     "cost": 6,
-    "atk": 5, "hp": 5,
+    "atk": 5,
+    "hp": 5,
     "hasFanfare": true,
     "fanfareSummon": "皇家近衛",
     "fanfareSummonCount": 2,
@@ -662,8 +655,7 @@
     "rarity": "Silver",
     "abilityDesc": "結晶3 倒數3 \n自己的回合結束時，召喚1個城堡衛兵到戰場上。\n每當士兵．從者進入自己的戰場時，回復我方領袖1點生命值\n－　－　－　－　－　－\n入場曲 召喚2個皇家近衛到戰場上。隨後，連攜10 額外召喚1個飛影騎士到戰場上。\n每當士兵．從者進入自已的戰場時，回復我方領袖1點生命值。",
     "evoAbilityDesc": "每當士兵．從者進入自已的戰場時，回復我方領袖2點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102010017.png"
   },
   {
     "id": "102020001",
@@ -678,7 +670,7 @@
     "giveKeywords": ["Ward"],
     "rarity": "Bronze",
     "abilityDesc": "指定 1個我方從者，給予其 +0/+2 與守護 效果。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020001.png"
   },
   {
     "id": "102020002",
@@ -691,7 +683,7 @@
     "rallyDrawFollowerCount": 1,
     "rarity": "Bronze",
     "abilityDesc": "隨機抽取 1張從者卡。\n連攜5 額外抽取 1張從者卡。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020002.png"
   },
   {
     "id": "102020003",
@@ -706,7 +698,7 @@
     "giveKeywords": ["Stealth"],
     "rarity": "Silver",
     "abilityDesc": "指定 1個我方從者，給予其 +2/+0 與潛行 效果。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020003.png"
   },
   {
     "id": "102020004",
@@ -722,7 +714,7 @@
     "drawTraitCount": 1,
     "rarity": "Silver",
     "abilityDesc": "指定 1個對方從者，給予3點傷害。抽取 1張指揮官從者卡。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020004.png"
   },
   {
     "id": "102020005",
@@ -735,7 +727,7 @@
     "randomEnemyFollowerDamage": { "count": 1, "damage": 3 },
     "rarity": "Silver",
     "abilityDesc": "召喚 2個皇家近衛到戰場上。隨後，隨機給予 1個對方從者3點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020005.png"
   },
   {
     "id": "102020006",
@@ -749,7 +741,7 @@
     ],
     "rarity": "Silver",
     "abilityDesc": "檢索 墓場1張3費以下的皇家護衛．從者卡 加入手牌。\n檢索 墓場1張3費以下的皇家護衛．從者卡 召喚到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020006.png"
   },
   {
     "id": "102020007",
@@ -765,7 +757,7 @@
     "delayedRally2GiveAllAlliesKeywords": { "trait": "Officer", "keywords": ["Storm"] },
     "rarity": "Gold",
     "abilityDesc": "召喚 3個皇家近衛到戰場上。\n連攜5 抽取 2張卡片。\n連攜10 隨後，給予我方戰場上所有士兵從者 疾走。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020007.png"
   },
   {
     "id": "102020008",
@@ -779,7 +771,7 @@
     "rallySummonExtraProps": { "hasLastWords": true, "lastWordsDraw": 1 },
     "rarity": "Gold",
     "abilityDesc": "召喚 2個飛影騎士到戰場上。\n連攜7 隨後給予該從者 謝幕曲 抽取 1張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102020008.png"
   },
   {
     "id": "102030001",
@@ -795,7 +787,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "倒數 3\n入場曲 召喚 1個皇家近衛到戰場上。\n每當士兵．從者進入自己的戰場時，給予該從者 +1/+0。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102030001.png"
   },
   {
     "id": "102030002",
@@ -811,7 +803,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "倒數 2\n入場曲 召喚 1個城堡衛兵到戰場上。\n回合結束時，召喚 1個城堡衛兵到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102030002.png"
   },
   {
     "id": "102030003",
@@ -825,7 +817,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "倒數 3\n回合結束時，召喚 1個持盾騎士到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/102030003.png"
   },
   {
     "id": "103010001",
@@ -833,7 +825,8 @@
     "type": "Follower",
     "craft": "Witch",
     "cost": 2,
-    "atk": 2, "hp": 2,
+    "atk": 2,
+    "hp": 2,
     "rarity": "Gold",
     "abilityDesc": "入場曲 抉擇1 使抉擇目標加入手牌。增幅5 改為抉擇2。\n進化時 發動3次增幅。",
     "hasSpellboost": true,
@@ -848,8 +841,7 @@
       ]
     },
     "onEvolve": { "spellboost": 3 },
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010001.png"
   },
   {
     "id": "103010002",
@@ -857,13 +849,13 @@
     "type": "Follower",
     "craft": "Witch",
     "cost": 2,
-    "atk": 2, "hp": 2,
+    "atk": 2,
+    "hp": 2,
     "hasFanfare": true,
     "fanfareSpellboost": 1,
     "rarity": "Bronze",
     "abilityDesc": "入場曲 發動1次增幅。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010002.png"
   },
   {
     "id": "103010003",
@@ -871,14 +863,14 @@
     "type": "Follower",
     "craft": "Witch",
     "cost": 2,
-    "atk": 2, "hp": 2,
+    "atk": 2,
+    "hp": 2,
     "hasFanfare": true,
     "fanfareSummon": "大地魔片",
     "onEvolve": { "addEarthSigil": 2, "drawEarthRite": 1 },
     "rarity": "Bronze",
     "abilityDesc": "入場曲 召喚 1個大地魔片到戰場上。\n進化時 大地魔片計數+2。隨機抽取1張帶有秘術 的卡片。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010003.png"
   },
   {
     "id": "103010004",
@@ -892,8 +884,7 @@
     "earthRiteSummon": "守衛巨像",
     "rarity": "Silver",
     "abilityDesc": "入場曲 秘術2 召喚 1個守衛巨像到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010004.png"
   },
   {
     "id": "103010005",
@@ -901,15 +892,15 @@
     "type": "Follower",
     "craft": "Witch",
     "cost": 4,
-    "atk": 3, "hp": 3,
+    "atk": 3,
+    "hp": 3,
     "onSpellPlaySummon": "紙人式神",
     "onSpellPlaySummonEvo": "暴鬼式神",
     "onEvolve": { "addHandCard": "智慧之光", "addHandCount": 2, "makeCost0": true },
     "rarity": "Silver",
     "abilityDesc": "每當你發動法術時，召喚 1個紙人式神到戰場上。",
     "evoAbilityDesc": "每當你發動法術時，召喚 1個暴鬼式神到戰場上。\n進化時 增加2張智慧之光到手牌中，並使其消費轉變為0。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010005.png"
   },
   {
     "id": "103010006",
@@ -923,8 +914,7 @@
     "onEvolve": { "earthRiteCost": 2, "summonToken": "泥塵巨像", "summonCount": 1, "aoeDamage": 3 },
     "rarity": "Silver",
     "abilityDesc": "入場曲 大地魔片計數 +2。\n進化時 秘術2 召喚1個泥塵巨像到戰場上，給予對方從者全體3點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010006.png"
   },
   {
     "id": "103010007",
@@ -940,8 +930,7 @@
     "lastWordsSecretSummonCount": 2,
     "rarity": "Bronze",
     "abilityDesc": "守護\n謝幕曲 秘賢 召喚2個守衛巨像到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010007.png"
   },
   {
     "id": "103010008",
@@ -950,14 +939,14 @@
     "craft": "Witch",
     "traits": [],
     "cost": 5,
-    "atk": 4, "hp": 4,
+    "atk": 4,
+    "hp": 4,
     "hasFanfare": true,
     "secretAndEarthRiteSummon": { "secretSummon": "賢者巨像", "secretCount": 1, "erCost": 2, "erSummonCount": 1 },
     "onEvolve": { "earthRiteCost": 3, "earthRiteEvolveAll": "Golem" },
     "rarity": "Silver",
     "abilityDesc": "入場曲 秘賢 召喚1個賢者巨像到戰場上，秘術2 額外召喚1個。\n進化時 秘術3 使自己戰場上的土偶．從者全體進化。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010008.png"
   },
   {
     "id": "103010009",
@@ -965,7 +954,8 @@
     "type": "Follower",
     "craft": "Witch",
     "cost": 6,
-    "atk": 5, "hp": 5,
+    "atk": 5,
+    "hp": 5,
     "hasFanfare": true,
     "fanfareEarthSigilAdd": 2,
     "fanfareSearch": { "pool": "deck", "action": "addHand", "count": 2 },
@@ -978,8 +968,7 @@
     },
     "rarity": "Gold",
     "abilityDesc": "入場曲 大地魔片計數+2，檢索 牌堆2張巫師．從者卡加入手牌。\n進化時 大地魔片計數+2，檢索 牌堆2張巫師．從者卡。\n秘賢 改為給予對方領袖6點傷害，抽取2張卡片。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010009.png"
   },
   {
     "id": "103010010",
@@ -987,14 +976,14 @@
     "type": "Follower",
     "craft": "Witch",
     "cost": 8,
-    "atk": 6, "hp": 6,
+    "atk": 6,
+    "hp": 6,
     "keywords": ["Ward"],
     "hasSpellboost": true,
     "spellboostReduceCost": 1,
     "rarity": "Silver",
     "abilityDesc": "守護\n增幅 消費-1。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010010.png"
   },
   {
     "id": "103010011",
@@ -1002,7 +991,8 @@
     "type": "Follower",
     "craft": "Witch",
     "cost": 9,
-    "atk": 4, "hp": 4,
+    "atk": 4,
+    "hp": 4,
     "hasFanfare": true,
     "discardAll": true,
     "drawCount": 5,
@@ -1011,8 +1001,7 @@
     "spellboostReduceCost": 1,
     "rarity": "Gold",
     "abilityDesc": "入場曲 捨棄所有手牌，抽取5張卡片，隨後發動5次增幅。\n增幅 消費-1。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010011.png"
   },
   {
     "id": "103010012",
@@ -1036,8 +1025,7 @@
     "rarity": "Gold",
     "abilityDesc": "入場曲 召喚1個天后式神、1個暴鬼式神與1個紙人式神到戰場上。\n每當式神．從者進入自己的戰場時，給予其 疾走。\n增幅 消費-1。",
     "evoAbilityDesc": "每當式神．從者進入自己的戰場時，給予其 疾走。\n進化時 指定 1個我方式神．從者，使其進化。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010012.png"
   },
   {
     "id": "103010013",
@@ -1046,7 +1034,8 @@
     "craft": "Witch",
     "traits": ["Golem"],
     "cost": 8,
-    "atk": 6, "hp": 6,
+    "atk": 6,
+    "hp": 6,
     "keywords": ["Ward"],
     "hasFanfare": true,
     "fanfareSummon": "泥塵巨像",
@@ -1056,8 +1045,7 @@
     "accelerateEffect": { "drawCount": 1 },
     "rarity": "Gold",
     "abilityDesc": "激奏1 抽取1張卡片。\n－　－　－　－　－　－\n守護\n入場曲 召喚3個泥塵巨像到戰場上，自己的回合結束時，秘賢 給予對方領袖X點傷害，X為我方戰場上的土偶．從者數量。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010013.png"
   },
   {
     "id": "103010014",
@@ -1079,8 +1067,7 @@
     },
     "rarity": "Silver",
     "abilityDesc": "結晶2 當自己發動秘術時，破壞這張卡片。謝幕曲 召喚1個守衛巨像到戰場上。\n－　－　－　－　－　－\n守護\n入場曲 召喚1個泥塵巨像與1個守衛巨像與1個賢者巨像到戰場上。\n入場曲 秘賢 使自己戰場上的所有土偶．從者全體進化。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010014.png"
   },
   {
     "id": "103010015",
@@ -1097,8 +1084,7 @@
     "spellboostReduceCost": 1,
     "rarity": "Silver",
     "abilityDesc": "入場曲 召喚1個紙人式神與1個暴鬼式神到戰場上。\n每當式神．從者進入戰場時，給予其守護。\n增幅 消費-1。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010015.png"
   },
   {
     "id": "103010016",
@@ -1116,8 +1102,7 @@
     "spellboostReduceCost": 1,
     "rarity": "Bronze",
     "abilityDesc": "入場曲 召喚1個暴鬼式神到戰場上。\n每當式神．從者進入戰場時，給予其+1/+0。\n增幅 消費-1。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010016.png"
   },
   {
     "id": "103010017",
@@ -1151,8 +1136,7 @@
     "rarity": "Gold",
     "abilityDesc": "入場曲 抉擇2 使抉擇目標進入戰場。增幅10 改為抉擇3。增幅15 改為抉擇4。\n增幅 消費-1。",
     "evoAbilityDesc": "進化時 指定 2個我方式神．從者，使其進化。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010017.png"
   },
   {
     "id": "103010018",
@@ -1171,8 +1155,7 @@
     "rarity": "Gold",
     "abilityDesc": "入場曲 召喚1個青龍式神到戰場上。\n增幅 消費-1。",
     "evoAbilityDesc": "進化時 召喚1個白虎式神到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010018.png"
   },
   {
     "id": "103010019",
@@ -1191,8 +1174,7 @@
     "rarity": "Silver",
     "abilityDesc": "入場曲 召喚1個玄武式神到戰場上。\n增幅 消費-1。",
     "evoAbilityDesc": "進化時 召喚1個玄武式神到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010019.png"
   },
   {
     "id": "103010020",
@@ -1210,8 +1192,7 @@
     "rarity": "Silver",
     "abilityDesc": "入場曲 抽取2張卡片。\n增幅 消費-1。",
     "evoAbilityDesc": "進化時 召喚1個朱雀式神到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103010020.png"
   },
   {
     "id": "103020001",
@@ -1222,7 +1203,7 @@
     "drawCount": 1,
     "rarity": "Bronze",
     "abilityDesc": "抽取 1張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020001.png"
   },
   {
     "id": "103020002",
@@ -1236,7 +1217,7 @@
     "damage": 3,
     "rarity": "Bronze",
     "abilityDesc": "指定 1個對方從者，給予3點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020002.png"
   },
   {
     "id": "103020003",
@@ -1252,7 +1233,7 @@
     "drawCount": 1,
     "rarity": "Bronze",
     "abilityDesc": "指定 1個對方單位，給予其 1 點傷害。抽取 1張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020003.png"
   },
   {
     "id": "103020004",
@@ -1266,7 +1247,7 @@
     ],
     "rarity": "Bronze",
     "abilityDesc": "檢索 牌堆1張巫師．從者卡 加入手牌。\n檢索 牌堆1張巫師．法術卡 加入手牌。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020004.png"
   },
   {
     "id": "103020005",
@@ -1278,7 +1259,7 @@
     "summonCount": 1,
     "rarity": "Bronze",
     "abilityDesc": "召喚 1個紙人式神到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020005.png"
   },
   {
     "id": "103020006",
@@ -1292,7 +1273,7 @@
     "aoeTarget": "enemyFollowers",
     "rarity": "Silver",
     "abilityDesc": "給予對方從者全體 2點傷害。\n增幅 傷害+1。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020006.png"
   },
   {
     "id": "103020007",
@@ -1308,7 +1289,7 @@
     "earthRiteDamage": 6,
     "rarity": "Bronze",
     "abilityDesc": "指定 1個對方從者，給予3點傷害。\n秘術2 改為給予 6 點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020007.png"
   },
   {
     "id": "103020008",
@@ -1322,7 +1303,7 @@
     "spellboostIncreaseSummon": 1,
     "rarity": "Silver",
     "abilityDesc": "召喚 1個雪人到戰場上。\n增幅 召喚數量+1。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020008.png"
   },
   {
     "id": "103020009",
@@ -1336,7 +1317,7 @@
     "spellboostReduceCost": 1,
     "rarity": "Silver",
     "abilityDesc": "召喚 1個暴鬼式神到戰場上。\n增幅 消費-1。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020009.png"
   },
   {
     "id": "103020010",
@@ -1349,7 +1330,7 @@
     "spellboostReduceCost": 1,
     "rarity": "Gold",
     "abilityDesc": "抽取 2張卡片。\n增幅 消費-1。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/103020010.png"
   },
   {
     "id": "104010001",
@@ -1365,8 +1346,7 @@
     "rarity": "Bronze",
     "abilityDesc": "入場曲 抽取 1張卡片。\n每當海洋．從者進入自己的戰場時，獲得突進與必殺。",
     "evoAbilityDesc": "每當海洋．從者進入自己的戰場時，獲得突進與必殺。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010001.png"
   },
   {
     "id": "104010002",
@@ -1380,8 +1360,7 @@
     "awakenSearch": { "pool": "deck", "action": "summon", "count": 1 },
     "rarity": "Gold",
     "abilityDesc": "守護\n入場曲 覺醒 檢索 牌堆1張消費為7以上的龍族．從者卡 召喚到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010002.png"
   },
   {
     "id": "104010003",
@@ -1399,8 +1378,7 @@
     "fanfareDamage": 3,
     "rarity": "Silver",
     "abilityDesc": "突進\n入場曲 指定 1個對方從者，給予3點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010003.png"
   },
   {
     "id": "104010004",
@@ -1415,8 +1393,7 @@
     "awakenBuff": { "atk": 2, "hp": 0 },
     "rarity": "Silver",
     "abilityDesc": "疾走\n入場曲 覺醒 獲得+2/+0。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010004.png"
   },
   {
     "id": "104010005",
@@ -1430,8 +1407,7 @@
     "passiveAwakenBuff": { "atk": 0, "hp": 3 },
     "rarity": "Bronze",
     "abilityDesc": "守護\n覺醒 獲得+0/+3。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010005.png"
   },
   {
     "id": "104010006",
@@ -1441,14 +1417,14 @@
     "traits": [],
     "cost": 4,
     "atk": 3, "hp": 5,
-    "evoAtk": 5, "evoHp": 7,
+    "evoAtk": 5,
+    "evoHp": 7,
     "hasFanfare": true,
     "awakenDrawCount": 1,
     "rarity": "Silver",
     "onEvolve": { "targetRequired": true, "onlyEnemy": true, "canTargetFollower": true, "damage": 5 },
     "abilityDesc": "入場曲 覺醒 抽取 1張卡片。\n進化時 指定 1個對方從者，給予5點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010006.png"
   },
   {
     "id": "104010007",
@@ -1462,8 +1438,7 @@
     "passiveAwakenBuff": { "atk": 2, "hp": 2 },
     "rarity": "Gold",
     "abilityDesc": "疾走\n覺醒 獲得+2/+2。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010007.png"
   },
   {
     "id": "104010008",
@@ -1472,7 +1447,8 @@
     "craft": "Dragon",
     "traits": ["Dragon"],
     "cost": 7,
-    "atk": 7, "hp": 6,
+    "atk": 7,
+    "hp": 6,
     "keywords": ["Ward"],
     "hasFanfare": true,
     "targetRequired": true,
@@ -1483,8 +1459,7 @@
     "onEvolve": { "drawCount": 3, "healLeaderAmount": 5 },
     "rarity": "Gold",
     "abilityDesc": "守護\n入場曲 指定 1個對方從者，給予其8點傷害，並給予對方領袖8點傷害。\n進化時 抽取3張卡片，回復我方領袖5點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010008.png"
   },
   {
     "id": "104010009",
@@ -1493,7 +1468,8 @@
     "craft": "Dragon",
     "traits": ["Dragon"],
     "cost": 9,
-    "atk": 7, "hp": 7,
+    "atk": 7,
+    "hp": 7,
     "keywords": ["Storm"],
     "accelerateCost": 2,
     "accelerateEffect": { "increaseMaxPP": 1, "awakenRandomEnemyFollowerDamage": { "count": 1, "damage": 4 } },
@@ -1506,8 +1482,7 @@
     "rarity": "Gold",
     "abilityDesc": "激奏2 使自己的最大PP+1。覺醒 給予隨機1個對方從者4點傷害\n－　－　－　－　－　－\n疾走\n入場曲 破壞戰場上所有其他從者。\n入場曲 超覺醒 給予對方領袖4點傷害，抽取4張卡片，回復我方領袖4點生命值。",
     "evoAbilityDesc": "進化時 超覺醒 檢索 牌堆或墓場1張真龍．從者卡召喚到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010009.png"
   },
   {
     "id": "104010010",
@@ -1535,8 +1510,7 @@
     },
     "rarity": "Gold",
     "abilityDesc": "結晶2 當自己使用消費為7以上的卡片時，破壞這張卡片。謝幕曲 召喚1個沉睡的古龍到戰場上。\n－　－　－　－　－　－\n守護\n這個從者進入戰場時，使自己的最大PP+1。\n進化時 指定 2個對方從者，給予7點傷害，檢索 牌堆1張真龍．從者卡加入手牌。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104010010.png"
   },
   {
     "id": "104020001",
@@ -1549,7 +1523,7 @@
     "awakenAoeDamage": 5,
     "rarity": "Silver",
     "abilityDesc": "給予對方從者全體 2點傷害。\n覺醒 改為給予 5點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104020001.png"
   },
   {
     "id": "104020002",
@@ -1561,7 +1535,7 @@
     "awakenDrawCount": 1,
     "rarity": "Silver",
     "abilityDesc": "使自己的最大PP+1。\n覺醒 抽取 1張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104020002.png"
   },
   {
     "id": "104030001",
@@ -1577,7 +1551,7 @@
     "abilityDesc": "倒數 3\n入場曲 覺醒 倒數-2。\n謝幕曲 召喚 1個巨龍到戰場上。",
     "hasLastWords": true,
     "lastWordsSummon": "巨龍",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/104030001.png"
   },
   {
     "id": "105010001",
@@ -1592,8 +1566,7 @@
     "necromancyReanimate": [10],
     "rarity": "Gold",
     "abilityDesc": "入場曲 葬送1 死術6 甦生10。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010001.png"
   },
   {
     "id": "105010002",
@@ -1607,8 +1580,7 @@
     "burialRiteDrawCount": 1,
     "rarity": "Bronze",
     "abilityDesc": "入場曲 葬送1 抽取 1張卡片。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010002.png"
   },
   {
     "id": "105010003",
@@ -1623,8 +1595,7 @@
     "lastWordsSummon": "骷髏士兵",
     "rarity": "Bronze",
     "abilityDesc": "入場曲 謝幕曲 召喚 1個骷髏士兵到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010003.png"
   },
   {
     "id": "105010004",
@@ -1640,8 +1611,7 @@
     "rarity": "Silver",
     "abilityDesc": "入場曲 增加 2張骷髏士兵卡片到手牌中。",
     "evoAbilityDesc": "進化時 召喚2個骷髏士兵到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010004.png"
   },
   {
     "id": "105010005",
@@ -1655,8 +1625,7 @@
     "necromancySummon": "殭屍",
     "rarity": "Silver",
     "abilityDesc": "入場曲 死術4 召喚 1個殭屍到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010005.png"
   },
   {
     "id": "105010006",
@@ -1681,8 +1650,7 @@
         { "type": "text", "text": "召喚 2個殭屍到戰場上", "effect": { "summonToken": "殭屍", "summonCount": 2 } }
       ]
     },
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010006.png"
   },
   {
     "id": "105010007",
@@ -1696,8 +1664,7 @@
     "fanfareReanimate": [2, 2],
     "rarity": "Gold",
     "abilityDesc": "入場曲 甦生2、甦生2。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010007.png"
   },
   {
     "id": "105010008",
@@ -1706,14 +1673,14 @@
     "craft": "Necro",
     "cost": 4,
     "atk": 4, "hp": 3,
-    "evoAtk": 4, "evoHp": 3,
+    "evoAtk": 4,
+    "evoHp": 3,
     "hasFanfare": true,
     "searchQueue": [{ "pool": "cemetery", "action": "summon", "count": 1 }],
     "onEvolve": { "necromancyCost": 6, "search": { "pool": "cemetery", "action": "summon", "count": 1 } },
     "rarity": "Gold",
     "abilityDesc": "入場曲 檢索 墓場 1張5費以下的死靈法師．從者卡 召喚到戰場上。\n進化時 死術6 檢索 墓場1張從者卡召喚到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010008.png"
   },
   {
     "id": "105010009",
@@ -1729,8 +1696,7 @@
     "onEvolve": { "summonToken": "巫妖", "summonCount": 2 },
     "rarity": "Silver",
     "abilityDesc": "入場曲 召喚2個殭屍到戰場上。\n進化時 召喚2個巫妖到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010009.png"
   },
   {
     "id": "105010010",
@@ -1740,15 +1706,15 @@
     "traits": [],
     "cost": 5,
     "atk": 4, "hp": 5,
-    "evoAtk": 5, "evoHp": 6,
+    "evoAtk": 5,
+    "evoHp": 6,
     "rarity": "Gold",
     "hasFanfare": true,
     "fanfareSummon": "殭屍",
     "fanfareSummonCount": 2,
     "onAnyEvolve": { "necromancyCost": 6, "necromancyEvolveAll": "Undead" },
     "abilityDesc": "入場曲 召喚2個殭屍到戰場上。\n進化時 死術6 使自己戰場上的死者從者全體進化。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010010.png"
   },
   {
     "id": "105010011",
@@ -1764,8 +1730,7 @@
     "onEvolve": { "giveAllAlliesKeywords": { "trait": "Undead", "keywords": ["Rush", "Bane"] } },
     "rarity": "Gold",
     "abilityDesc": "入場曲 死術6 甦生3、甦生2、甦生1。\n進化時 給予自己戰場上的死者從者全體突進與必殺。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010011.png"
   },
   {
     "id": "105010012",
@@ -1791,8 +1756,7 @@
     },
     "rarity": "Gold",
     "abilityDesc": "激奏2 葬送1 抽取1張卡片，召喚1個殭屍到戰場上，並給予其「謝幕曲 抽取1張卡片」。\n－　－　－　－　－　－\n疾走\n守護\n入場曲 葬送3 破壞對方戰場上所有從者，給予對方領袖5點傷害。\n謝幕曲 給予對方領袖5點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010012.png"
   },
   {
     "id": "105010013",
@@ -1815,8 +1779,7 @@
     },
     "rarity": "Silver",
     "abilityDesc": "結晶2 倒數3 自己的回合結束時，使自己的墓地+2。謝幕曲 召喚1個冥界守門犬到戰場上\n－　－　－　－　－　－\n必殺\n守護\n這個從者進入戰場時，使自己的墓地+4。謝幕曲 使自己的墓地+4。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010013.png"
   },
   {
     "id": "105010014",
@@ -1835,8 +1798,7 @@
     "rarity": "Gold",
     "abilityDesc": "入場曲 奈落 甦生5、甦生4、甦生3。\n入場曲 死術4 使自己戰場上的死者從者全數進化並給予疾走。",
     "evoAbilityDesc": "這個從者進化時 給予對方從者全體3點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010014.png"
   },
   {
     "id": "105010015",
@@ -1860,8 +1822,7 @@
     "rarity": "Gold",
     "abilityDesc": "疾走\n入場曲 死術4 獲得守護與必殺。\n入場曲 奈落 使這個從者進化。\n謝幕曲 死術4 給予對方領袖3點傷害，回復我方領袖3點生命值。",
     "evoAbilityDesc": "謝幕曲 死術4 給予對方領袖5點傷害，回復我方領袖5點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010015.png"
   },
   {
     "id": "105010016",
@@ -1878,8 +1839,7 @@
     "abyssSummonCount": 1,
     "rarity": "Silver",
     "abilityDesc": "入場曲 死術2 抽取1張卡片。\n入場曲 奈落 召喚1個報喪女妖到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010016.png"
   },
   {
     "id": "105010017",
@@ -1898,8 +1858,7 @@
     "abyssDamageOpponentFace": 5,
     "rarity": "Gold",
     "abilityDesc": "突進\n入場曲 死術8 破壞對方戰場上所有從者，召喚2個巫妖到戰場上。\n入場曲 奈落 給予對方領袖5點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010017.png"
   },
   {
     "id": "105010018",
@@ -1916,8 +1875,7 @@
     "abyssKeywords": ["Storm", "Bane"],
     "rarity": "Silver",
     "abilityDesc": "入場曲 死術3 獲得 +2/+2 與守護。\n入場曲 奈落 獲得 疾走 與 必殺。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010018.png"
   },
   {
     "id": "105010019",
@@ -1936,8 +1894,7 @@
     "onEvolve": { "summonToken": "骸骨魚", "summonCount": 1 },
     "rarity": "Gold",
     "abilityDesc": "入場曲 壞滅10 破壞所有其他單位。\n謝幕曲 壞滅5 召喚1個骸骨魚到戰場上。\n進化時 召喚1個骸骨魚到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010019.png"
   },
   {
     "id": "105020003",
@@ -1953,7 +1910,7 @@
     "abyssSecondaryNecromancyCost": 6,
     "rarity": "Bronze",
     "abilityDesc": "抽取 1張卡片。\n死術2 額外抽取 1張卡片。\n奈落 召喚2個怨靈到戰場上，隨後死術6 使這些從者進化。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105020003.png"
   },
   {
     "id": "105020001",
@@ -1968,7 +1925,7 @@
     "drawCount": 2,
     "rarity": "Silver",
     "abilityDesc": "指定 1個我方從者，破壞該單位。抽取 2張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105020001.png"
   },
   {
     "id": "105020002",
@@ -1982,7 +1939,7 @@
     "burialRiteReplace": { "aoeDamage": 4, "aoeTarget": "enemyAll" },
     "rarity": "Silver",
     "abilityDesc": "給予對方從者全體 2點傷害。\n葬送1 改為給予對方所有單位 4點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105020002.png"
   },
   {
     "id": "105030001",
@@ -1997,7 +1954,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "倒數 3\n回合結束時，使自己的墓場+2。\n謝幕曲 召喚 1個報喪女妖到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105030001.png"
   },
   {
     "id": "105030002",
@@ -2017,7 +1974,7 @@
     "maneuverOncePerTurn:true": true,
     "rarity": "Gold",
     "abilityDesc": "倒數 3\n入場曲 葬送2 召喚 2個骸骨大王到戰場上。\n謝幕曲 召喚 1個骸骨大王到戰場上。\n自己的回合結束時，死術3 給予對方領袖 3點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105030002.png"
   },
   {
     "id": "106010001",
@@ -2031,8 +1988,7 @@
     "onEvolve": { "targetRequired": true, "onlyEnemy": true, "canTargetFollower": true, "damage": 3 },
     "rarity": "Silver",
     "abilityDesc": "入場曲 抽取 1張卡片。\n進化時 指定 1個對方從者，給予3點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010001.png"
   },
   {
     "id": "106010002",
@@ -2045,8 +2001,7 @@
     "onEvolve": { "crimsonCost": 1, "damageOpponentFace": 3 },
     "rarity": "Gold",
     "abilityDesc": "交戰時 真紅1 給予對方領袖1點傷害。\n進化時 真紅1 給予對方領袖3點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010002.png"
   },
   {
     "id": "106010003",
@@ -2062,8 +2017,7 @@
     "lastWordsVengeanceHealLeader": 3,
     "rarity": "Bronze",
     "abilityDesc": "入場曲 復仇 獲得+2/+2與守護。\n謝幕曲 復仇 回復我方領袖3點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010003.png"
   },
   {
     "id": "106010004",
@@ -2078,8 +2032,7 @@
     "lastWordsWrathHealLeader": 3,
     "rarity": "Bronze",
     "abilityDesc": "入場曲 真紅1。\n謝幕曲 狂亂 回復我方領袖3點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010004.png"
   },
   {
     "id": "106010005",
@@ -2093,8 +2046,7 @@
     "vengeanceAddAttackEffect": { "type": "damageAllEnemyUnits", "amount": 3 },
     "rarity": "Gold",
     "abilityDesc": "突進\n入場曲 復仇 獲得「攻擊時 給予對方所有單位 3點傷害」。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010005.png"
   },
   {
     "id": "106010006",
@@ -2109,8 +2061,7 @@
     "vengeanceKeywords": ["Rush"],
     "rarity": "Silver",
     "abilityDesc": "吸血\n入場曲 復仇 獲得+2/+0與突進。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010006.png"
   },
   {
     "id": "106010007",
@@ -2126,8 +2077,7 @@
     "crimsonKeywords": ["Bane"],
     "rarity": "Silver",
     "abilityDesc": "突進\n入場曲 真紅1 獲得+1/+1與必殺。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010007.png"
   },
   {
     "id": "106010008",
@@ -2142,8 +2092,7 @@
     "crimsonDamageOpponentFace": 2,
     "rarity": "Bronze",
     "abilityDesc": "突進\n入場曲 真紅1 給予對方領袖2點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010008.png"
   },
   {
     "id": "106010009",
@@ -2163,8 +2112,7 @@
     },
     "rarity": "Silver",
     "abilityDesc": "入場曲 真紅1 給予隨機一個對方從者3點傷害。狂亂 給予對方領袖3點傷害。\n進化時 給予隨機一個對方從者3點傷害，給予對方領袖3點傷害。狂亂 改為發動3次。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010009.png"
   },
   {
     "id": "106010010",
@@ -2181,8 +2129,7 @@
     "elseCrimsonAoeDamage": 3,
     "rarity": "Gold",
     "abilityDesc": "吸血\n入場曲 狂亂 給予對方所有從者5點傷害，獲得疾走，否則 真紅3 給予對方所有從者3點傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010010.png"
   },
   {
     "id": "106010011",
@@ -2204,8 +2151,7 @@
     },
     "rarity": "Gold",
     "abilityDesc": "吸血\n入場曲 復仇 給予對方領袖4點傷害，並抽取2張卡片。\n進化時 指定 2個對方從者，破壞該單位。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010011.png"
   },
   {
     "id": "106010013",
@@ -2222,8 +2168,7 @@
     "fanfareDamageOpponentFace": 3,
     "rarity": "Gold",
     "abilityDesc": "突進\n吸血\n入場曲 給予隨機1個對方從者3點傷害，給予對方領袖3點傷害，狂亂 改為發動3次。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010013.png"
   },
   {
     "id": "106010014",
@@ -2247,8 +2192,7 @@
     "fanfareRandomDestroyBoardAndDamageFace": { "count": 3, "damageMultiplier": 2 },
     "rarity": "Gold",
     "abilityDesc": "激奏2 真紅1 指定 對方1個單位，給予2點傷害，回復我方領袖2點生命值。\n－　－　－　－　－　－\n突進\n入場曲 隨機破壞戰場上其他3個從者，給予對方領袖因此能力被破壞的從者數2倍的傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010014.png"
   },
   {
     "id": "106010015",
@@ -2271,8 +2215,7 @@
     },
     "rarity": "Silver",
     "abilityDesc": "結晶2 倒數3 一回合一次，每當發動真紅時，給予對方領袖2點傷害，回復我方領袖2點生命值。\n－　－　－　－　－　－\n突進\n吸血\n謝幕曲 召喚3個吸血蝙蝠到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106010015.png"
   },
   {
     "id": "106020001",
@@ -2284,7 +2227,7 @@
     "crimsonDrawCount": 2,
     "rarity": "Bronze",
     "abilityDesc": "真紅1 抽取2張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106020001.png"
   },
   {
     "id": "106020002",
@@ -2300,7 +2243,7 @@
     "vengeanceDamageOpponentFace": 4,
     "rarity": "Bronze",
     "abilityDesc": "指定 1個對方從者，給予4點傷害。\n復仇 額外給予對方領袖4點傷害，回復我方領袖4點生命值。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106020002.png"
   },
   {
     "id": "106020003",
@@ -2314,7 +2257,7 @@
     "wrathAoeDamageAdd": { "target": "enemyAll", "damage": 2 },
     "rarity": "Silver",
     "abilityDesc": "給予對方所有從者3點傷害。\n復仇 額外給予對方所有單位2點傷害。\n狂亂 額外給予對方所有單位2點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106020003.png"
   },
   {
     "id": "106030001",
@@ -2328,7 +2271,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Gold",
     "abilityDesc": "倒數 2\n謝幕曲 真紅1 召喚2個吸血蝙蝠到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106030001.png"
   },
   {
     "id": "106030002",
@@ -2342,7 +2285,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "自己的回合結束時，真紅1 抽取1張卡片。\n復仇 給予對方領袖5點傷害，隨後破壞這個護符。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106030002.png"
   },
   {
     "id": "106030003",
@@ -2357,7 +2300,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "倒數 3\n每當蝙蝠．從者進入自己的戰場時，給予該從者守護。\n自己的回合結束時，復仇 召喚2個吸血蝙蝠到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106030003.png"
   },
   {
     "id": "106030004",
@@ -2371,7 +2314,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "倒數 3\n謝幕曲 真紅1 給予對方所有從者3點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/106030004.png"
   },
   {
     "id": "107010001",
@@ -2388,8 +2331,7 @@
     "healAmount": 2,
     "rarity": "Bronze",
     "abilityDesc": "入場曲 指定 1個我方單位，回復2點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010001.png"
   },
   {
     "id": "107010002",
@@ -2408,8 +2350,7 @@
     "healLeaderAmount": 2,
     "rarity": "Silver",
     "abilityDesc": "入場曲 指定 1個對方生命值2以下的從者，消失該單位，回復我方領袖2點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010002.png"
   },
   {
     "id": "107010003",
@@ -2422,8 +2363,7 @@
     "onAttackHealLeader": 2,
     "rarity": "Silver",
     "abilityDesc": "攻擊時 回復我方領袖 2 點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010003.png"
   },
   {
     "id": "107010004",
@@ -2438,8 +2378,7 @@
     "onEvolve": { "search": { "pool": "deck", "action": "summon", "count": 1 } },
     "rarity": "Silver",
     "abilityDesc": "守護\n入場曲 檢索 牌堆1張主教．護符卡 加入手牌。\n進化時 檢索 牌堆1張主教．護符卡 召喚到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010004.png"
   },
   {
     "id": "107010005",
@@ -2458,8 +2397,7 @@
     "onEvolve": { "devotionReduceAllAmuletsCountdown": 1 },
     "rarity": "Silver",
     "abilityDesc": "守護\n入場曲 虔誠 指定 1個我方護符，使其倒數-2。\n進化時 虔誠 使我方場上所有護符倒數-1。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010005.png"
   },
   {
     "id": "107010006",
@@ -2474,8 +2412,7 @@
     "onEvolve": { "targetRequired": true, "onlyEnemy": true, "canTargetFollower": true, "banishEffect": true },
     "rarity": "Silver",
     "abilityDesc": "入場曲 抽取1張卡片。\n進化時 指定 1個對方從者，消失該單位。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010006.png"
   },
   {
     "id": "107010007",
@@ -2489,8 +2426,7 @@
     "devotionDestroyAllAmuletsForStats": { "atk": 1, "hp": 1 },
     "rarity": "Gold",
     "abilityDesc": "突進\n入場曲 虔誠 破壞我方場上所有護符。根據被破壞的數量獲得 +1/+1效果。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010007.png"
   },
   {
     "id": "107010008",
@@ -2504,8 +2440,7 @@
     "banishAllEnemyUnits": true,
     "rarity": "Gold",
     "abilityDesc": "入場曲 消失對手戰場上所有單位。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010008.png"
   },
   {
     "id": "107010009",
@@ -2525,8 +2460,7 @@
     "elseDestroyEffect": true,
     "rarity": "Gold",
     "abilityDesc": "必殺\n守護\n入場曲 信仰 召喚2個信仰戰士到戰場上。否則 指定 1個我方護符，破壞該單位。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010009.png"
   },
   {
     "id": "107010010",
@@ -2545,8 +2479,7 @@
     "faithHealLeader": 7,
     "rarity": "Gold",
     "abilityDesc": "突進\n守護\n入場曲 指定 1個對方從者，給予7點傷害，信仰 給予對方領袖7點傷害，回復我方領袖7點生命值。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010010.png"
   },
   {
     "id": "107010011",
@@ -2564,8 +2497,7 @@
     "accelerateEffect": { "targetRequired": true, "onlyAlly": true, "onlyAmulet": true, "reduceCountdown": 1 },
     "rarity": "Gold",
     "abilityDesc": "激奏1 指定 1個我方護符，使其倒數-1。\n－　－　－　－　－　－\n守護\n入場曲 檢索 牌堆3張主教．護符卡召喚到戰場上。\n入場曲 信仰 破壞我方戰場上所有護符，給予對方領袖因此能力被破壞的護符數的傷害。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010011.png"
   },
   {
     "id": "107010012",
@@ -2583,8 +2515,7 @@
     "crystallizeEffect": { "countdown": 2, "hasLastWords": true, "lastWordsSummon": "真誠的傳教者" },
     "rarity": "Silver",
     "abilityDesc": "結晶2 倒數2 謝幕曲 召喚1個真誠的傳教者到戰場上。\n－　－　－　－　－　－\n守護\n謝幕曲 回復我方領袖3點生命值。\n這個從者進入戰場時，回復我方領袖1點生命值，抽取1張卡片。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107010012.png"
   },
   {
     "id": "107020001",
@@ -2596,7 +2527,7 @@
     "devotionHealLeader": 3,
     "rarity": "Bronze",
     "abilityDesc": "回復我方領袖 3 點生命值。\n虔誠 額外回復 3 點生命值。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107020001.png"
   },
   {
     "id": "107020002",
@@ -2611,7 +2542,7 @@
     "banishEffect": true,
     "rarity": "Bronze",
     "abilityDesc": "指定 1個對方生命值3以下的從者，消失該單位。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107020002.png"
   },
   {
     "id": "107020003",
@@ -2623,7 +2554,7 @@
     "faithDrawAmuletsMakeCost0": 2,
     "rarity": "Silver",
     "abilityDesc": "虔誠 使我方場上所有護符倒數-1。\n信仰 隨後，隨機抽取2張護符卡，隨後使其消費轉變為0。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107020003.png"
   },
   {
     "id": "107030001",
@@ -2638,7 +2569,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Bronze",
     "abilityDesc": "倒數 4\n謝幕曲 回復我方領袖 4點生命值，抽取 1張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030001.png"
   },
   {
     "id": "107030002",
@@ -2667,7 +2598,7 @@
     },
     "hasLastWords": true,
     "lastWordsDraw": 1,
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030002.png"
   },
   {
     "id": "107030003",
@@ -2685,7 +2616,7 @@
     "maneuverEffect": { "type": "destroySelf" },
     "rarity": "Silver",
     "abilityDesc": "入場曲 抽取 1張卡片。\n謝幕曲 抽取 2張卡片。\n策動1 破壞這張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030003.png"
   },
   {
     "id": "107030004",
@@ -2699,7 +2630,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
     "abilityDesc": "倒數 2\n謝幕曲 抽取 2張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030004.png"
   },
   {
     "id": "107030005",
@@ -2720,7 +2651,7 @@
     "maneuverEffect": { "type": "destroySelf" },
     "rarity": "Silver",
     "abilityDesc": "入場曲 指定 1個我方護符，破壞該單位。\n謝幕曲 信仰 召喚1個教會天馬到戰場上。\n策動1 破壞這張卡片。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030005.png"
   },
   {
     "id": "107030006",
@@ -2739,7 +2670,7 @@
     "maneuverEffect": { "type": "reduceCountdown", "amount": 1 },
     "rarity": "Silver",
     "abilityDesc": "倒數 3\n入場曲 回復我方領袖 3點生命值。\n謝幕曲 給予對方所有從者 3點傷害。\n策動1 使倒數-1。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030006.png"
   },
   {
     "id": "107030007",
@@ -2754,7 +2685,7 @@
     "maneuverOncePerTurn": true,
     "rarity": "Gold",
     "abilityDesc": "倒數 2\n謝幕曲 召喚 2個黃金戰士到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030007.png"
   },
   {
     "id": "107030008",
@@ -2768,7 +2699,7 @@
     "maneuverEffect": { "type": "destroySelfAndAllFollowers" },
     "rarity": "Gold",
     "abilityDesc": "策動 破壞這個護符，破壞戰場上所有從者。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030008.png"
   },
   {
     "id": "107030009",
@@ -2785,7 +2716,7 @@
     "lastWordsRuinDamageOpponentFace": 5,
     "rarity": "Gold",
     "abilityDesc": "入場曲 壞滅5 虔誠 破壞我方場上所有護符。\n謝幕曲 壞滅10 召喚1個忠臣天子到戰場上，給予對方領袖5點傷害。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/107030009.png"
   },
   {
     "id": "109010001",
@@ -2793,13 +2724,13 @@
     "type": "Follower",
     "craft": "Neutral",
     "cost": 2,
-    "atk": 1, "hp": 2,
+    "atk": 1,
+    "hp": 2,
     "hasFanfare": true,
     "drawCount": 1,
     "rarity": "Bronze",
     "abilityDesc": "入場曲 抽取 1張卡片。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010001.png"
   },
   {
     "id": "109010002",
@@ -2814,8 +2745,7 @@
     "onEvolve": { "search": { "pool": "deck", "action": "addHand", "count": 1 } },
     "rarity": "Gold",
     "abilityDesc": "突進\n入場曲 檢索 牌堆2張消費為2以下的從者卡 召喚到戰場上。\n進化時 檢索 1張從者卡 加入手牌。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010002.png"
   },
   {
     "id": "109010003",
@@ -2839,8 +2769,7 @@
     },
     "rarity": "Gold",
     "abilityDesc": "入場曲 指定 1個對方單位，破壞該單位。\n進化時 指定 1個對方單位，消失該單位。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010003.png"
   },
   {
     "id": "109010004",
@@ -2858,8 +2787,7 @@
     "accelerateEffect": { "spellSearch": { "pool": "deck", "action": "addHand", "count": 1 } },
     "rarity": "Silver",
     "abilityDesc": "激奏1 檢索 牌堆1張中立卡加入手牌。\n－　－　－　－　－　－\n入場曲 檢索 牌堆1張中立卡加入手牌。檢索 牌堆1張中立．從者卡 召喚到戰場上。",
-    "image_url": "",
-    "evo_image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010004.png"
   },
   {
     "id": "109010005",
@@ -2867,7 +2795,8 @@
     "type": "Follower",
     "craft": "Neutral",
     "cost": 7,
-    "atk": 6, "hp": 6,
+    "atk": 6,
+    "hp": 6,
     "keywords": ["Rush", "Ward"],
     "hasFanfare": true,
     "drawCount": 1,
@@ -2883,8 +2812,7 @@
     "rarity": "Gold",
     "abilityDesc": "結晶1 倒數7 每當中立從者進入自己的戰場時，倒數-1。謝幕曲 召喚1個封印的魔神到戰場上。\n－　－　－　－　－　－\n突進\n守護\n入場曲 抽取1張卡片。這個從者進入戰場時，抽取1張卡片。",
     "evoAbilityDesc": "進化時 召喚1個封印的魔神到戰場上。",
-    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010005.png",
-    "evo_image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010005e.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109010005.png"
   },
   {
     "id": "109020001",
@@ -2898,7 +2826,7 @@
     "destroyEffect": true,
     "rarity": "Silver",
     "abilityDesc": "指定 1個對方從者，破壞該單位。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109020001.png"
   },
   {
     "id": "109030001",
@@ -2911,6 +2839,6 @@
     "maneuverOncePerTurn": true,
     "rarity": "Bronze",
     "abilityDesc": "倒數 2\n回合結束時，召喚 1個獸人戰士到戰場上。",
-    "image_url": ""
+    "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/109030001.png"
   }
 ]
