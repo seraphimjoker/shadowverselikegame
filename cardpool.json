@@ -1950,10 +1950,10 @@
     "countdown": 3,
     "endOfTurnCemetery": 2,
     "hasLastWords": true,
-    "lastWordsSummon": "報喪女妖",
+    "lastWordsSummon": "鴉天狗",
     "maneuverOncePerTurn": true,
     "rarity": "Silver",
-    "abilityDesc": "倒數 3\n回合結束時，使自己的墓場+2。\n謝幕曲 召喚 1個報喪女妖到戰場上。",
+    "abilityDesc": "倒數 3\n回合結束時，使自己的墓場+2。\n謝幕曲 召喚 1個鴉天狗到戰場上。",
     "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105030001.jpg"
   },
   {
