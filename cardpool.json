@@ -1835,10 +1835,10 @@
     "hasFanfare": true,
     "necromancyCost": 2,
     "necromancyDrawCount": 1,
-    "abyssSummon": "報喪女妖",
+    "abyssSummon": "鴉天狗",
     "abyssSummonCount": 1,
     "rarity": "Silver",
-    "abilityDesc": "入場曲 死術2 抽取1張卡片。\n入場曲 奈落 召喚1個報喪女妖到戰場上。",
+    "abilityDesc": "入場曲 死術2 抽取1張卡片。\n入場曲 奈落 召喚1個鴉天狗到戰場上。",
     "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010016.jpg"
   },
   {
