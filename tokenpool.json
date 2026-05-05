@@ -417,7 +417,7 @@
   },
   "骸骨魚": {
     "id": "005010007",
-    "name": "骸骨魚",
+    "name": "屍骸刺客",
     "type": "Follower",
     "craft": "Necro",
     "traits": ["Undead"],
