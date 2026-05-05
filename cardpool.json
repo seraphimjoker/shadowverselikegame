@@ -1890,10 +1890,10 @@
     "ruinDestroyAllBoard": true,
     "hasLastWords": true,
     "lastWordsRuinReq": 5,
-    "lastWordsRuinSummon": "骸骨魚",
-    "onEvolve": { "summonToken": "骸骨魚", "summonCount": 1 },
+    "lastWordsRuinSummon": "屍骸刺客",
+    "onEvolve": { "summonToken": "屍骸刺客", "summonCount": 1 },
     "rarity": "Gold",
-    "abilityDesc": "入場曲 壞滅10 破壞所有其他單位。\n謝幕曲 壞滅5 召喚1個骸骨魚到戰場上。\n進化時 召喚1個骸骨魚到戰場上。",
+    "abilityDesc": "入場曲 壞滅10 破壞所有其他單位。\n謝幕曲 壞滅5 召喚1個屍骸刺客到戰場上。\n進化時 召喚1個屍骸刺客到戰場上。",
     "image_url": "https://cdn.jsdelivr.net/gh/seraphimjoker/shadowverselikegame@main/cardimage/105010019.jpg"
   },
   {
